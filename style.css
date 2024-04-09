@@ -1,0 +1,8 @@
+img {
+  height: 450px;
+}
+.card-design {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
